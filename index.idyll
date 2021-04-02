@@ -1,0 +1,32 @@
+[meta title:"Fep Ai Learning Comm Blog" description:"Short description of your project" /]
+
+[div style:`{backgroundColor: 'black', padding: '20px', width: '100%'}`]
+[Header
+  fullWidth:true
+  title:"Markovian Mythologies"
+  subtitle:"The Blog of the FEP and Active Inference Learning Community"
+  author:"Noah Guzmán"
+  authorLink:"https://twitter.com/NoahGuzman14"
+  color:"#ffffff"
+   /]
+[/div]
+
+[Aside]
+[Fixed]
+  [div style:`{backgroundColor: 'black', padding: '20px', color: 'white', fontSize: '30px', width: '300px'}`]
+    [Articles](/post-list/index.html)
+  [/div]
+[/Fixed]  
+[/Aside]
+
+## Welcome!
+
+This is a blog dedicated to learning about Karl Friston's **Free Energy Principle** (FEP) and its corresponding process theory, **Active Inference**. 
+
+There are a lot of prerequisites to gaining a deep understanding of Friston's "theory of everything": the FEP was built on the backs of thermodynamics, statistical mechanics, and Bayesian inference, while Active Inference was built on a scaffold of variational Bayes methods and Markov Decision Processes.
+
+In light of these prerequisites, this blog aims to work methodically through books on the foundational topics that feature most heavily in the FEP and Active Inference while also reading through papers on the FEP and Active Inference themselves. 
+
+We firmly believe that the best way to learn is to teach, so during the course of our journey, we will develop interactive articles that seek to explain the topics under study and the realtions between them. These articles will include interactive graphics, equations, and animations whose main goal is to impart intuition.
+
+Thank you for joining us on this learning journey. We hope you enjoy the content!

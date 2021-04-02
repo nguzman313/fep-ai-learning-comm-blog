@@ -1,0 +1,16 @@
+[meta title:"Post List" description:"Short description of your project" /]
+
+[div style:`{backgroundColor: 'black', padding: '20px', width: '100%'}`]
+[Header
+  fullWidth:true
+  title:"Articles"
+  subtitle:"A Table of Contents for Our Interactive Explorations"
+  author:"Noah Guzmán"
+  authorLink:"https://twitter.com/NoahGuzman14"
+  color:"#ffffff"
+   /]
+[/div]
+
+  [ol]
+    [li style:`{fontSize: '30px'}`] [a href: "../ch-1-cm-qm-dg/index.html"] Of Spaces, Maps, and Motion [/a] [/li]
+  [/ol]
