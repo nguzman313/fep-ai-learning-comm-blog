@@ -7,13 +7,13 @@
   subtitle:"The Blog of the FEP and Active Inference Learning Community"
   author:"Noah Guzmán"
   authorLink:"https://twitter.com/NoahGuzman14"
-  color:"#ffffff"
+  color:"#fffff8"
    /]
 [/div]
 
 [Aside]
 [Fixed]
-  [div style:`{backgroundColor: '#2e2e2e', padding: '20px', color: 'white', fontSize: '30px', width: '300px'}`]
+  [div style:`{backgroundColor: '#2e2e2e', padding: '20px', color: '#fffff8', fontSize: '30px', width: '300px'}`]
     [Articles](https://nguzman313.github.io/fep-ai-learning-comm-blog/post-list/)
   [/div]
 [/Fixed]  
