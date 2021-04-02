@@ -14,7 +14,7 @@
 [Aside]
 [Fixed]
   [div style:`{backgroundColor: 'black', padding: '20px', color: 'white', fontSize: '30px', width: '300px'}`]
-    [Articles](/post-list/)
+    [Articles](/post-list)
   [/div]
 [/Fixed]  
 [/Aside]
