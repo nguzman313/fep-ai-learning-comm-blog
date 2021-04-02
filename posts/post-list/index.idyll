@@ -1,6 +1,6 @@
 [meta title:"Post List" description:"Short description of your project" /]
 
-[div style:`{backgroundColor: 'black', padding: '20px', width: '100%'}`]
+[div style:`{backgroundColor: '#2e2e2e', padding: '20px', width: '100%'}`]
 [Header
   fullWidth:true
   title:"Articles"

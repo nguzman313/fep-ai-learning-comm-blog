@@ -1,6 +1,6 @@
 [meta title:"Fep Ai Learning Comm Blog" description:"Short description of your project" /]
 
-[div style:`{backgroundColor: 'black', padding: '20px', width: '100%'}`]
+[div style:`{backgroundColor: '#2e2e2e', padding: '20px', width: '100%'}`]
 [Header
   fullWidth:true
   title:"Markovian Mythologies"
@@ -13,7 +13,7 @@
 
 [Aside]
 [Fixed]
-  [div style:`{backgroundColor: 'black', padding: '20px', color: 'white', fontSize: '30px', width: '300px'}`]
+  [div style:`{backgroundColor: '#2e2e2e', padding: '20px', color: 'white', fontSize: '30px', width: '300px'}`]
     [Articles](https://nguzman313.github.io/fep-ai-learning-comm-blog/post-list/)
   [/div]
 [/Fixed]  
