@@ -1,4 +1,4 @@
-[meta title:"Post List" description:"Short description of your project" /]
+[meta title:"Articles" description:"Short description of your project" /]
 
 [div style:`{backgroundColor: '#2e2e2e', padding: '20px', width: '100%'}`]
 [Header
